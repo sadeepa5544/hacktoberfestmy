@@ -1,5 +1,9 @@
 {
+<<<<<<< Updated upstream
   "name": "myfirstreact",
+=======
+  "name": "myreactdemo",
+>>>>>>> Stashed changes
   "version": "0.1.0",
   "private": true,
   "dependencies": {
